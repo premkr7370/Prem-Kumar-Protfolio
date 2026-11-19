@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJ0YnMzdTRtZmNpd25nMjZ0czN4bm1mcXJiYno2ajhodzdvMnNpNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pGVrRLHRzoRcQ/200.gif" width="220" alt="Iron Man reaction GIF" />
+</div>
 ## Getting Started
 
 First, run the development server:
